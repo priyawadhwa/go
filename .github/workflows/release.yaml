@@ -32,7 +32,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - id: apko
-      uses: distroless/actions/apko-snapshot@main
+      uses: priyawadhwa/actions/apko-snapshot@auth
       with:
         config: apko.yaml
         base-tag: ghcr.io/${{ github.repository }}
