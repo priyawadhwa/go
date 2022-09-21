@@ -53,7 +53,7 @@ jobs:
       run: IMAGE_NAME=${{ steps.apko.outputs.digest }} ./test.sh
 
     - name: Additional tags
-      uses: chainguard-images/actions/tag@main
+      uses: priyawadhwa/actions/tag@speedup-tag
       with:
         distroless_image: ghcr.io/${{ github.repository }}
         docker_image: "golang"
