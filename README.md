@@ -20,8 +20,8 @@ docker pull cgr.dev/chainguard/go:latest
 
 | Tag | Digest | Arch |
 | --- | ------ | ---- |
-| `1.19.1-r0-glibc` | `sha256:9ae453468e987757482f6df85def919d65d8a033cfe7caf28286710cd5afe88f`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:9ae453468e987757482f6df85def919d65d8a033cfe7caf28286710cd5afe88f) | `amd64` |
 | `1` `1.19` `1.19.1` `1.19.1-r0` `latest` | `sha256:58a84b658fb08db36940f14b2940006b44782a31f983f6d12d3f7370187bbc73`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:58a84b658fb08db36940f14b2940006b44782a31f983f6d12d3f7370187bbc73) | `386` `amd64` `arm64` `armv6` `armv7` `ppc64le` `riscv64` `s390x` |
+| `1.19.1-r0-glibc` | `sha256:9ae453468e987757482f6df85def919d65d8a033cfe7caf28286710cd5afe88f`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:9ae453468e987757482f6df85def919d65d8a033cfe7caf28286710cd5afe88f) | `amd64` |
 
 
 
